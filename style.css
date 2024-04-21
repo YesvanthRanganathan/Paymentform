@@ -13,7 +13,7 @@ body{
     padding: 12px ;
     border-radius: 5px; 
 }
-#container{
+.container{
     background-color: whitesmoke;
     padding: 7px ;
     border-radius: 10px;   
